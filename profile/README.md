@@ -15,8 +15,9 @@ Brindar una herramienta accesible para apoyar a profesionales y padres de famili
 🔗 [https://teanimo.vercel.app](https://teanimo.vercel.app)
 
 ## 👥 Equipo
-- Alexis León
-- Ernesto Castro
+- Ernesto Saniel, Castro Lozano
+- Yair Alexis, León García
+
 
 ## 📊 Resultados preliminares
 🔗 [https://hallazgos.vercel.app](https://imagenes-hallazgos.vercel.app)
