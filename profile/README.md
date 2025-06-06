@@ -19,5 +19,5 @@ Brindar una herramienta accesible para apoyar a profesionales y padres de famili
 - Ernesto Castro
 
 ## 📊 Resultados preliminares
-🔗 [https://teanimo.vercel.app](https://imagenes-hallazgos.vercel.app)
+🔗 [https://hallazgos.vercel.app](https://imagenes-hallazgos.vercel.app)
 
