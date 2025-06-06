@@ -15,8 +15,8 @@ Brindar una herramienta accesible para apoyar a profesionales y padres de famili
 🔗 [Sitio Web](https://teanimo.vercel.app)
 
 ## 👥 Equipo
-- Ernesto Saniel, Castro Lozano
-- Yair Alexis, León García
+- [Ernesto Saniel, Castro Lozano](https://github.com/ErnestoSCL)
+- [Yair Alexis, León García](https://github.com/Santalb)
 
 
 ## 📊 Resultados preliminares
