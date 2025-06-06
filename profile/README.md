@@ -1,12 +1,23 @@
-## Hi there 👋
+# TEAnimo 🧠💙
 
-<!--
+**Proyecto de tesis enfocado en el desarrollo de un sistema inteligente para la evaluación del riesgo de Trastorno del Espectro Autista (TEA) en niños**, utilizando técnicas de Machine Learning.
 
-**Here are some ideas to get you started:**
+## 🚀 Tecnologías utilizadas
+- React, TypeScript, TailwindCSS
+- FastAPI, Python
+- PostgreSQL
+- Jupyter Notebook (análisis e investigación)
+- Docker
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🎯 Objetivo
+Brindar una herramienta accesible para apoyar a profesionales y padres de familia en la detección temprana de posibles signos de TEA mediante un sistema automatizado y basado en evidencia científica.
+
+## 🌐 Enlace al sistema
+🔗 [https://teanimo.vercel.app](https://teanimo.vercel.app)
+
+## 👥 Equipo
+- Alexis León
+- Ernesto Castro
+
+## 📊 Resultados preliminares
+¡Próximamente!
