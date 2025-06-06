@@ -12,7 +12,7 @@
 Brindar una herramienta accesible para apoyar a profesionales y padres de familia en la detección temprana de posibles signos de TEA mediante un sistema automatizado y basado en evidencia científica.
 
 ## 🌐 Enlace al sistema
-🔗 [https://teanimo.vercel.app](https://teanimo.vercel.app)
+🔗 [Sitio Web](https://teanimo.vercel.app)
 
 ## 👥 Equipo
 - Ernesto Saniel, Castro Lozano
@@ -20,5 +20,5 @@ Brindar una herramienta accesible para apoyar a profesionales y padres de famili
 
 
 ## 📊 Resultados preliminares
-🔗 [https://hallazgos.vercel.app](https://imagenes-hallazgos.vercel.app)
+🔗 [Hallazgos](https://imagenes-hallazgos.vercel.app)
 
