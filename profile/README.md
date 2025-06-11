@@ -20,5 +20,5 @@ Brindar una herramienta accesible para apoyar a profesionales y padres de famili
 
 
 ## 📊 Resultados preliminares
-🔗 [Hallazgos](https://imagenes-hallazgos.vercel.app)
+🔗 [Hallazgos](https://hallazgo.teanimo.tech/)
 
