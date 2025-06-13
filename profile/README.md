@@ -12,7 +12,6 @@
 Brindar una herramienta accesible para apoyar a profesionales y padres de familia en la detección temprana de posibles signos de TEA mediante un sistema automatizado y basado en evidencia científica.
 
 ## 🌐 Enlace al sistema
-🔗 [Sitio Web - Recoleccion de Datos](https://teanimo.vercel.app)
 🔗 [Pagina Oficial](https://page.teanimo.tech)
 
 ## 👥 Equipo
